@@ -1,2 +1,2 @@
 # netcdf_ifort_install
-This is a little script to download and install netCDF libraries with all dependencies and compile they with ifort and icc intel oneapi compiler.
+This is a little bash script to download, compile (with intel ifort and c compiler) and install netCDF libraries with all dependencies. I hope it will be useful!
